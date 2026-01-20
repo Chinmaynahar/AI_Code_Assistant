@@ -1,3 +1,5 @@
 /.vscode
 /code_assistant_db
 /gradio_db
+__pycache__/
+chat_history.db
