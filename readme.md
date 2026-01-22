@@ -239,10 +239,3 @@ MIT License
 This project is designed for **serious documentation-grounded AI systems**, not generic chatbots. It prioritizes **correctness, traceability, and maintainability** over creative generation.
 
 ---
-
-If you want, this README can be:
-
-* Simplified for GitHub audience
-* Extended with diagrams
-* Converted into enterprise documentation
-* Tailored specifically for Spring Boot docs
